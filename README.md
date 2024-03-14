@@ -7,4 +7,6 @@ Work in progress.
 Requires:
 -2x M5x50
 -1x M5x25
+-1x M5x10
 -1x M5 Nut
+-2x M5 Tnut
