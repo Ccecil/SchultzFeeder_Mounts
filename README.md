@@ -5,6 +5,6 @@ Hardware files for Siemens Schultz 3x8mm feeders to allow mounting to 2020 Misum
 Work in progress.  
 
 Requires:
--2x M5x30
+-2x M5x50
 -1x M5x25
 -1x M5 Nut
